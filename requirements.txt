@@ -1,0 +1,8 @@
+streamlit
+pandas
+sqlalchemy
+numpy
+scipy
+pillow
+torch
+facenet-pytorch
